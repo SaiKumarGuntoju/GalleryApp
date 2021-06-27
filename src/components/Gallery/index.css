@@ -1,0 +1,33 @@
+.page-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  padding: 30px;
+  padding-top: 50px;
+}
+.gallery-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: left;
+}
+.mainImage {
+  width: 600px;
+  height: 380px;
+}
+.thumb-container {
+  list-style-type: none;
+  display: flex;
+  justify-content: left;
+  padding-left: 0px;
+}
+.heading {
+  text-align: left;
+  font-size: 20px;
+}
+.para {
+  text-align: left;
+  font-size: 15px;
+  color: #64748b;
+}

@@ -1,0 +1,16 @@
+/* Write your code here. */
+.thumbImage {
+  width: 70%;
+  margin-right: 3px;
+  border-radius: 3px;
+  opacity: 0.5;
+}
+.noBlur {
+  opacity: 1;
+}
+.btn {
+  border: 0px solid;
+  outline: none;
+  background-color: transparent;
+  padding: 0px;
+}
